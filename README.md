@@ -82,8 +82,8 @@ SQLite (records, source_state, load_log). Следующий этап: очищ�
 Подставьте реальный URL в следующую команду (строка YOUR_LOGIN — шаблон):
 
 ```sh
-git remote add origin https://github.com/YOUR_LOGIN/sports-attendance-forecast.git
-git push -u origin main
+git remote add origin [https://github.com/YOUR_LOGIN/sports-attendance-forecast.git
+git push -u origin main](https://github.com/kirkatsman-ass/sports-poseshanie-forecast)
 ```
 
 Если архиватор удалил каталог .git, сначала выполните `git init -b main`,
