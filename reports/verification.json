@@ -7,9 +7,9 @@
   "first_load_inserted": 3840,
   "second_load_inserted": 0,
   "unit_tests_passed": 4,
-  "unit_tests_total": 4,
+  "unit_tests_total": 4,  
   "live_weather_api_verified": false,
   "models_implemented": false,
   "dashboard_implemented": false,
-  "remote_repository_created": false
+  "remote_repository_created": true
 }
