@@ -1,0 +1,13 @@
+{
+  "seed": 29,
+  "start_year": 2021,
+  "years": 5,
+  "capacity": 20000,
+  "horizon_days": 7,
+  "database": "data/processed/sports.db",
+  "sources_directory": "data/raw",
+  "weather_latitude": 55.75,
+  "weather_longitude": 37.62,
+  "http_timeout_seconds": 20,
+  "http_attempts": 3
+}
